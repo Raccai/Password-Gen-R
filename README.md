@@ -23,4 +23,14 @@ When that's done, input the following code and you're all good: <br />
 npm run dev
 ```
 
+## About the Project
+### Made With
+1. HTML
+2. CSS
+3. JavaScript
+4. Svelte Framework
+
+## Note
+The resources used, from custom fonts to background images and svg icons, are for personal use. All rights and credit go directly to its rightful owners.
+
 Enjoy generating passwords no human will remember (except you, I mean)!
